@@ -1,0 +1,4 @@
+<!--pages/test/test.wxml-->
+<icon ></icon>
+<view>{{msg}}</view>
+<button class='commonBtnStyle' hover-class='clickedBtnStyle' bindtap='clickMe'>点击我</button>
